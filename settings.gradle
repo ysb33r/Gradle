@@ -12,6 +12,5 @@
 
 rootProject.name = 'gradle-plugins'
 
-include 'doxygen'
 //include 'a2x'
 

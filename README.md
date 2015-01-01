@@ -7,9 +7,10 @@ technology that came along was not yet available in Gradle.
 ## Emancipated Plugins
 
 - [Bintray Gradle Plugin](https://github.com/ysb33r/bintray)
+- [Doxygen Gradle Plugin](https://github.com/ysb33r/doxygen-gradle-plugin)
 - [GNUMake Gradle Plugin](https://github.com/ysb33r/gnumake-gradle-plugin)
 
 ## Incubating Plugins
 
-- [Doxygen Gradle Plugin](./doxygeb) : Allows documentation to be generated using [Doxygen](http://www.doxygen.org)
+- There are currently no incubating plugins here.
 
